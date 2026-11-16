@@ -1,6 +1,7 @@
+
 {
   "name": "SwipeVault",
   "description": "Minimalist Tinder-style photo gallery cleaner with safe deletion queue, gesture controls, and storage analytics.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
