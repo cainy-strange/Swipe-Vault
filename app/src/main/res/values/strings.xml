@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SwipeVault</string>
+    <string name="tagline">Minimalist gallery hygiene</string>
+    <string name="grant_access">Grant Gallery Access</string>
+    <string name="add_selected_photos">Select More Photos</string>
+    <string name="review_all_photos">All Photos</string>
+    <string name="start_cleaning">Start Cleaning</string>
+    <string name="delete_action">Delete</string>
+    <string name="skip_action">Skip</string>
+    <string name="keep_action">Keep</string>
+    <string name="undo_action">Undo</string>
+</resources>
